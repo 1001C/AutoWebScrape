@@ -1,2 +1,0 @@
-# AutoWebScrape
-Scrape Automotive sites
